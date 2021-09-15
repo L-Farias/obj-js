@@ -1,13 +1,13 @@
 {
-  "name": "goldbyte",
-  "version": "1.0.0",
-  "description": "Projeto goldbyte soluções inteligentes",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
-  },
-  "author": "L-Farias",
-  "license": "ISC",
-  "type": "module"
-}
+    "name": "goldbyte",
+    "version": "1.0.0",
+    "description": "Projeto goldbyte soluções inteligentes",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "author": "L-Farias",
+    "license": "ISC",
+    "type": "module"
+  }
